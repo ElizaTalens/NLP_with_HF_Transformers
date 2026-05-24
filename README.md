@@ -68,11 +68,9 @@ generator(
 Result :
 
 ```
-[{'generated_text': 'Learning natural language processing with Hugging Face transformers is interesting because ...'},
- {'generated_text': 'Learning natural language processing with Hugging Face transformers is interesting because ...'}]
+[{'generated_text': "Learning natural language processing with Hugging Face transformers is interesting. That's good news and bad news to people working on traditional processing protocols – languages and language tools have to change. (And, of"},
+ {'generated_text': 'Learning natural language processing with Hugging Face transformers is interesting. First of all, when we use Hugging Face transformers as a form of artificial recognition, we will only learn about it from experience'}]
 ```
-
-> Note: ganti Result di atas dengan output asli dari Colab kamu, karena text generation menghasilkan teks yang berbeda setiap kali dijalankan.
 
 Analysis on example 3 :
 
@@ -157,10 +155,8 @@ Machine learning is a branch of artificial intelligence that allows computer sys
 Result :
 
 ```
-[{'summary_text': ' Machine learning is a branch of artificial intelligence that allows computer systems to learn patterns directly from data . It is widely used in recommendation systems, spam detection, fraud detection and voice assistants . A good model should be able to generalize to data it has never seen before .'}]
+[{'summary_text': ' Machine learning is a branch of artificial intelligence that allows computer systems to learn patterns directly from data . It is widely used today in many areas of daily life, such as spam detection in email, fraud detection in banking, and voice assistants on smartphones . As more data and computing power become available every year, machine learning keeps growing .'}]
 ```
-
-> Note: sesuaikan Result di atas dengan output asli dari Colab kamu.
 
 Analysis on example 6 :
 
@@ -177,10 +173,8 @@ translator_id("Saya sangat suka belajar kecerdasan buatan dan pemrosesan bahasa 
 Result :
 
 ```
-[{'translation_text': "J'aime beaucoup apprendre l'intelligence artificielle et le traitement du langage naturel."}]
+[{'translation_text': "J'aime beaucoup apprendre l'intelligence artificielle et le langage naturel."}]
 ```
-
-> Note: sesuaikan Result di atas dengan output asli dari Colab kamu.
 
 Analysis on example 7 :
 
